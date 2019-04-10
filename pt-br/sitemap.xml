@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/pt-br/</loc>
+    <loc>https://zahareevici.github.io/mywebsite/pt-br/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro-ro"
-                href="/ro-ro/"
+                href="https://zahareevici.github.io/mywebsite/ro-ro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://zahareevici.github.io/mywebsite/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/"
+                href="https://zahareevici.github.io/mywebsite/pt-br/"
                 />
   </url>
   
   <url>
-    <loc>/pt-br/series/</loc>
+    <loc>https://zahareevici.github.io/mywebsite/pt-br/series/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro-ro"
-                href="/ro-ro/series/"
+                href="https://zahareevici.github.io/mywebsite/ro-ro/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="https://zahareevici.github.io/mywebsite/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/series/"
+                href="https://zahareevici.github.io/mywebsite/pt-br/series/"
                 />
   </url>
   
