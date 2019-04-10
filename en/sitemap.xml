@@ -3,42 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zahareevici.github.io/mywebsite/</loc>
+    <loc>https://ion.armasu.eu/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro-ro"
-                href="https://zahareevici.github.io/mywebsite/ro-ro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://zahareevici.github.io/mywebsite/pt-br/"
+                href="https://ion.armasu.eu/ro-ro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zahareevici.github.io/mywebsite/"
+                href="https://ion.armasu.eu/"
                 />
   </url>
   
   <url>
-    <loc>https://zahareevici.github.io/mywebsite/series/</loc>
+    <loc>https://ion.armasu.eu/series/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro-ro"
-                href="https://zahareevici.github.io/mywebsite/ro-ro/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://zahareevici.github.io/mywebsite/pt-br/series/"
+                href="https://ion.armasu.eu/ro-ro/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zahareevici.github.io/mywebsite/series/"
+                href="https://ion.armasu.eu/series/"
                 />
   </url>
   

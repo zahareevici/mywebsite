@@ -7,13 +7,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ro-ro"
-                href="https://zahareevici.github.io/mywebsite/ro-ro/"
+                hreflang="en"
+                href="https://zahareevici.github.io/mywebsite/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://zahareevici.github.io/mywebsite/"
+                hreflang="ro-ro"
+                href="https://zahareevici.github.io/mywebsite/ro-ro/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -27,13 +27,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ro-ro"
-                href="https://zahareevici.github.io/mywebsite/ro-ro/series/"
+                hreflang="en"
+                href="https://zahareevici.github.io/mywebsite/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://zahareevici.github.io/mywebsite/series/"
+                hreflang="ro-ro"
+                href="https://zahareevici.github.io/mywebsite/ro-ro/series/"
                 />
     <xhtml:link
                 rel="alternate"

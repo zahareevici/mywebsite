@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ion Armasu</title>
-    <link>https://zahareevici.github.io/mywebsite/ro-ro/</link>
+    <link>https://ion.armasu.eu/ro-ro/</link>
     <description>Recent content on Ion Armasu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://zahareevici.github.io/mywebsite/ro-ro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ion.armasu.eu/ro-ro/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
